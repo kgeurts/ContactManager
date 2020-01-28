@@ -1,5 +1,5 @@
 package book;
-
+// Created method.
 public class Book{
     private String title;
     private String author;
@@ -16,5 +16,6 @@ public class Book{
     }
     public boolean isBookBorrowed(){
         return isBorrowed;
+
     }
 }
