@@ -8,6 +8,7 @@ import tests.ContactTest;
 import javax.xml.transform.Result;
 
 class Main {
+        @Test
     public static void main(String [] args){
 
 
