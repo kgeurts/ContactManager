@@ -5,7 +5,8 @@ public class ContactManager {
     Contact[] myFriends;
     int friendsCount;
 
-    // Constructor:
+    /* Constructor: */
+
     public ContactManager(){
         friendsCount = 0;
         myFriends = new Contact[500];
